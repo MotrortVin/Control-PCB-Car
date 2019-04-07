@@ -1,0 +1,59 @@
+Added Component: Designator=D600(DIODE-0.7)
+Added Component: Designator=D601(DIODE-0.7)
+Added Component: Designator=J600(HDR1X2H)
+Added Component: Designator=J601(HDR1X2H)
+Added Component: Designator=J602(HDR1X2H)
+Added Component: Designator=J603(HDR1X2H)
+Added Component: Designator=J604(HDR1X4H)
+Added Component: Designator=J605(HDR1X4H)
+Added Component: Designator=J606(HDR1X4H)
+Added Component: Designator=R600(AXIAL-0.4)
+Added Component: Designator=R601(AXIAL-0.4)
+Added Component: Designator=R602(AXIAL-0.4)
+Added Component: Designator=R607(AXIAL-0.4)
+Added Pin To Net: NetName=GND Pin=D600-1
+Added Pin To Net: NetName=GND Pin=D601-1
+Added Pin To Net: NetName=GND Pin=J604-4
+Added Pin To Net: NetName=GND Pin=J605-1
+Added Pin To Net: NetName=+5VD Pin=J605-4
+Added Pin To Net: NetName=GND Pin=J606-4
+Added Pin To Net: NetName=+5VD Pin=R600-2
+Added Pin To Net: NetName=+5VD Pin=R601-2
+Added Pin To Net: NetName=+5VD Pin=R602-2
+Added Pin To Net: NetName=+5VD Pin=R607-2
+Added Pin To Net: NetName=LEFT Pin=J600-1
+Added Pin To Net: NetName=LEFT Pin=J601-1
+Added Pin To Net: NetName=LEFT Pin=J602-1
+Added Pin To Net: NetName=LEFT Pin=J603-1
+Added Net: Name=LEFT
+Added Pin To Net: NetName=NetD600_2 Pin=D600-2
+Added Pin To Net: NetName=NetD600_2 Pin=J605-3
+Added Net: Name=NetD600_2
+Added Pin To Net: NetName=NetD601_2 Pin=D601-2
+Added Pin To Net: NetName=NetD601_2 Pin=J605-2
+Added Net: Name=NetD601_2
+Added Pin To Net: NetName=NetJ600_2 Pin=J600-2
+Added Pin To Net: NetName=NetJ600_2 Pin=R600-1
+Added Net: Name=NetJ600_2
+Added Pin To Net: NetName=NetJ601_2 Pin=J601-2
+Added Pin To Net: NetName=NetJ601_2 Pin=R607-1
+Added Net: Name=NetJ601_2
+Added Pin To Net: NetName=NetJ602_2 Pin=J602-2
+Added Pin To Net: NetName=NetJ602_2 Pin=R601-1
+Added Net: Name=NetJ602_2
+Added Pin To Net: NetName=NetJ603_2 Pin=J603-2
+Added Pin To Net: NetName=NetJ603_2 Pin=R602-1
+Added Net: Name=NetJ603_2
+Added Member To Class: ClassName=Sheet1 Member=Component D600 SMAJ5.1A
+Added Member To Class: ClassName=Sheet1 Member=Component D601 SMAJ5.1A
+Added Member To Class: ClassName=Sheet1 Member=Component J600 EH2
+Added Member To Class: ClassName=Sheet1 Member=Component J601 EH2
+Added Member To Class: ClassName=Sheet1 Member=Component J602 EH2
+Added Member To Class: ClassName=Sheet1 Member=Component J603 EH2
+Added Member To Class: ClassName=Sheet1 Member=Component J604 EH4
+Added Member To Class: ClassName=Sheet1 Member=Component J605 EH4
+Added Member To Class: ClassName=Sheet1 Member=Component J606 EH4
+Added Member To Class: ClassName=Sheet1 Member=Component R600 Res2
+Added Member To Class: ClassName=Sheet1 Member=Component R601 Res2
+Added Member To Class: ClassName=Sheet1 Member=Component R602 Res2
+Added Member To Class: ClassName=Sheet1 Member=Component R607 Res2

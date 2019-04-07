@@ -1,0 +1,50 @@
+Added Component: Designator=C602(RAD-0.3)
+Added Component: Designator=C603(RAD-0.3)
+Added Component: Designator=E601(POLAR0.8)
+Added Component: Designator=J607(HDR1X3H)
+Added Component: Designator=R604(AXIAL-0.4)
+Added Component: Designator=R?(AXIAL-0.4)
+Added Component: Designator=U601(D2PAK_N)
+Added Component: Designator=VR600(VR3)
+Added Component: Designator=VR601(VR3)
+Added Pin To Net: NetName=+5VD Pin=C600-1
+Added Pin To Net: NetName=+5VD Pin=C601-1
+Added Pin To Net: NetName=+5VD Pin=C603-2
+Added Pin To Net: NetName=+5VD Pin=D600-1
+Added Pin To Net: NetName=+5VD Pin=D600-2
+Added Pin To Net: NetName=+5VD Pin=D601-1
+Added Pin To Net: NetName=+5VD Pin=D601-2
+Added Pin To Net: NetName=+5VD Pin=E601-1
+Added Pin To Net: NetName=+5VD Pin=J604-4
+Added Pin To Net: NetName=+5VD Pin=J605-1
+Added Pin To Net: NetName=+5VD Pin=J605-2
+Added Pin To Net: NetName=+5VD Pin=J605-3
+Added Pin To Net: NetName=+5VD Pin=J606-4
+Added Pin To Net: NetName=+5VD Pin=R603-1
+Added Pin To Net: NetName=+5VD Pin=R604-2
+Added Pin To Net: NetName=+5VD Pin=R?-2
+Added Pin To Net: NetName=+5VD Pin=U600-10
+Added Pin To Net: NetName=+5VD Pin=U601-3
+Added Pin To Net: NetName=+5VD Pin=VR600-2
+Added Pin To Net: NetName=+5VD Pin=VR601-2
+Added Pin To Net: NetName=NetR604_1 Pin=R604-1
+Added Pin To Net: NetName=NetR604_1 Pin=VR600-1
+Added Pin To Net: NetName=NetR604_1 Pin=VR600-3
+Added Net: Name=NetR604_1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=VR601-1
+Added Pin To Net: NetName=NetR?_1 Pin=VR601-3
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=VCC Pin=C602-2
+Added Pin To Net: NetName=VCC Pin=J607-3
+Added Pin To Net: NetName=VCC Pin=U601-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=Sheet1 Member=Component C602 
+Added Member To Class: ClassName=Sheet1 Member=Component C603 
+Added Member To Class: ClassName=Sheet1 Member=Component E601 
+Added Member To Class: ClassName=Sheet1 Member=Component J607 EH3
+Added Member To Class: ClassName=Sheet1 Member=Component R604 Res2
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res2
+Added Member To Class: ClassName=Sheet1 Member=Component U601 
+Added Member To Class: ClassName=Sheet1 Member=Component VR600 
+Added Member To Class: ClassName=Sheet1 Member=Component VR601 

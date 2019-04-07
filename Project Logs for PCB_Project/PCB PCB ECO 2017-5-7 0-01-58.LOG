@@ -1,0 +1,75 @@
+Added Component: Designator=C600(RAD-0.3)
+Added Component: Designator=C601(RAD-0.3)
+Added Component: Designator=D602(LED-1)
+Added Component: Designator=D605(LED-1)
+Added Component: Designator=D606(LED-1)
+Added Component: Designator=E600(POLAR0.8)
+Added Component: Designator=JT600(R38)
+Added Component: Designator=R603(AXIAL-0.4)
+Added Component: Designator=R606(AXIAL-0.4)
+Added Component: Designator=R608(AXIAL-0.4)
+Added Component: Designator=R609(AXIAL-0.4)
+Added Component: Designator=R610(AXIAL-0.4)
+Added Component: Designator=R612(AXIAL-0.4)
+Added Component: Designator=R613(AXIAL-0.4)
+Added Component: Designator=R614(AXIAL-0.4)
+Added Component: Designator=R615(AXIAL-0.4)
+Added Pin To Net: NetName=+5VD Pin=E600-1
+Added Pin To Net: NetName=+5VD Pin=R606-2
+Added Pin To Net: NetName=+5VD Pin=R612-2
+Added Pin To Net: NetName=+5VD Pin=R613-2
+Added Pin To Net: NetName=+5VD Pin=R614-2
+Added Pin To Net: NetName=+5VD Pin=R615-2
+Added Net: Name=+5VD
+Added Pin To Net: NetName=GND Pin=C600-1
+Added Pin To Net: NetName=GND Pin=C601-1
+Added Pin To Net: NetName=GND Pin=R603-1
+Added Net: Name=GND
+Added Pin To Net: NetName=LED  RUN# Pin=D605-2
+Added Net: Name=LED  RUN#
+Added Pin To Net: NetName=LED  USR0# Pin=D602-2
+Added Net: Name=LED  USR0#
+Added Pin To Net: NetName=LED  USR1# Pin=D606-2
+Added Net: Name=LED  USR1#
+Added Net: Name=MD0  DIR
+Added Pin To Net: NetName=MD0  EN# Pin=R614-1
+Added Net: Name=MD0  EN#
+Added Net: Name=MD1  DIR
+Added Pin To Net: NetName=MD1  EN# Pin=R615-1
+Added Net: Name=MD1  EN#
+Added Pin To Net: NetName=NetC600_2 Pin=C600-2
+Added Pin To Net: NetName=NetC600_2 Pin=JT600-2
+Added Pin To Net: NetName=NetC600_2 Pin=R610-2
+Added Net: Name=NetC600_2
+Added Pin To Net: NetName=NetC601_2 Pin=C601-2
+Added Pin To Net: NetName=NetC601_2 Pin=JT600-1
+Added Pin To Net: NetName=NetC601_2 Pin=R610-1
+Added Net: Name=NetC601_2
+Added Pin To Net: NetName=NetD602_1 Pin=D602-1
+Added Pin To Net: NetName=NetD602_1 Pin=R606-1
+Added Net: Name=NetD602_1
+Added Pin To Net: NetName=NetD605_1 Pin=D605-1
+Added Pin To Net: NetName=NetD605_1 Pin=R612-1
+Added Net: Name=NetD605_1
+Added Pin To Net: NetName=NetD606_1 Pin=D606-1
+Added Pin To Net: NetName=NetD606_1 Pin=R613-1
+Added Net: Name=NetD606_1
+Added Pin To Net: NetName=NetE600_2 Pin=E600-2
+Added Pin To Net: NetName=NetE600_2 Pin=R603-2
+Added Net: Name=NetE600_2
+Added Pin To Net: NetName=NetR608_1 Pin=R608-1
+Added Net: Name=NetR608_1
+Added Pin To Net: NetName=NetR609_1 Pin=R609-1
+Added Net: Name=NetR609_1
+Added Pin To Net: NetName=RXD Pin=R608-2
+Added Net: Name=RXD
+Added Net: Name=SW0
+Added Net: Name=SW1
+Added Net: Name=SW2
+Added Net: Name=SW3
+Added Pin To Net: NetName=TXD Pin=R609-2
+Added Net: Name=TXD
+Added Net: Name=VMSR  RV0
+Added Net: Name=VMSR  RV1
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

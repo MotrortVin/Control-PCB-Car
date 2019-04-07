@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=D602 Old DesignItemId=LED1 New DesignItemId=LED2
+Change Component DesignItemId : Designator=D605 Old DesignItemId=LED1 New DesignItemId=LED2
+Change Component DesignItemId : Designator=D606 Old DesignItemId=LED1 New DesignItemId=LED2
+Change Component Footprint: Designator=D602 Old Footprint=LED-1 New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=D605 Old Footprint=LED-1 New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=D606 Old Footprint=LED-1 New Footprint=3.2X1.6X1.1

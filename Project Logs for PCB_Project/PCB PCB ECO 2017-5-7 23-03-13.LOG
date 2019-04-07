@@ -1,0 +1,4 @@
+Added Component: Designator=R615(AXIAL-0.4)
+Added Pin To Net: NetName=MD1  EN# Pin=R615-1
+Added Pin To Net: NetName=+5VD Pin=R615-2
+Added Member To Class: ClassName=Sheet1 Member=Component R615 Res2

@@ -1,0 +1,8 @@
+Added Component: Designator=MH100(MH)
+Added Component: Designator=MH101(MH)
+Added Component: Designator=MH102(MH)
+Added Component: Designator=MH103(MH)
+Added Member To Class: ClassName=Sheet1 Member=Component MH100 HOLE-3.0mm_X
+Added Member To Class: ClassName=Sheet1 Member=Component MH101 HOLE-3.0mm_X
+Added Member To Class: ClassName=Sheet1 Member=Component MH102 HOLE-3.0mm_X
+Added Member To Class: ClassName=Sheet1 Member=Component MH103 HOLE-3.0mm_X

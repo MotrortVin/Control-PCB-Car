@@ -1,0 +1,22 @@
+Added Component: Designator=U600(DIP20)
+Added Pin To Net: NetName=NetE600_2 Pin=U600-1
+Added Pin To Net: NetName=NetR608_1 Pin=U600-2
+Added Pin To Net: NetName=NetR609_1 Pin=U600-3
+Added Pin To Net: NetName=NetC600_2 Pin=U600-4
+Added Pin To Net: NetName=NetC601_2 Pin=U600-5
+Added Pin To Net: NetName=MD0  DIR Pin=U600-6
+Added Pin To Net: NetName=MD0  EN# Pin=U600-7
+Added Pin To Net: NetName=MD1  DIR Pin=U600-8
+Added Pin To Net: NetName=MD1  EN# Pin=U600-9
+Added Pin To Net: NetName=GND Pin=U600-10
+Added Pin To Net: NetName=LED  USR1# Pin=U600-11
+Added Pin To Net: NetName=LED  USR0# Pin=U600-12
+Added Pin To Net: NetName=LED  RUN# Pin=U600-13
+Added Pin To Net: NetName=VMSR  RV0 Pin=U600-14
+Added Pin To Net: NetName=VMSR  RV1 Pin=U600-15
+Added Pin To Net: NetName=SW0 Pin=U600-16
+Added Pin To Net: NetName=SW1 Pin=U600-17
+Added Pin To Net: NetName=SW2 Pin=U600-18
+Added Pin To Net: NetName=SW3 Pin=U600-19
+Added Pin To Net: NetName=+5VD Pin=U600-20
+Added Member To Class: ClassName=Sheet1 Member=Component U600 STC12C5052AD
